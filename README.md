@@ -9,7 +9,7 @@
 ### 4- Fichero javascript js para el proyecto en la carpeta `js`
 ### 5- El fichero principal es:`LunarLander.html`
 ### 6- La rama `Minify` contiene el proyecto con los ficheros html, css y js minimificados.
-### 7- La url en Rawgit de `LunarLander.html` es: 
+### 7- La url en Rawgit de `LunarLander.html` es: https://rawgit.com/collami/Lunar-Landing-Javascript/Minify/LunarLander.min.html
 ### 8- Los ficheros html, css y js están identados y validados.
 
 
