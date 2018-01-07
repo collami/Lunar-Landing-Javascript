@@ -5,11 +5,12 @@
 ### 1- Documento con las especificaciones del juego, en el fichero `Presentación Lunar Lander - Antonio Li.pdf`
 #### Se trata de desarrollar un juego diseñado por otro alumno de clase.
 ### 2- Colección de imágenes para el proyecto en la carpeta `img`
-### 3- Colección de css para el proyecto en la carpeta `css`
-### 4- El fichero principal es:`LunarLander.html`
-### 5- La rama `Minify` contiene el proyecto con los ficheros html y css minimificados.
-### 6- La url en Rawgit de `LunarLander.html` es: 
-### 6- Los ficheros html y css están identados y validados.
+### 3- Colección de ficheros css para el proyecto en la carpeta `css`
+### 4- Fichero javascript js para el proyecto en la carpeta `js`
+### 5- El fichero principal es:`LunarLander.html`
+### 6- La rama `Minify` contiene el proyecto con los ficheros html, css y js minimificados.
+### 7- La url en Rawgit de `LunarLander.html` es: 
+### 8- Los ficheros html, css y js están identados y validados.
 
 
 ## Observaciones:
